@@ -1,2 +1,16 @@
-
+.holder {
+  display: flex;
+  background-color: yellow;
+  height: 450px;
+  flex-wrap: wrap;
+  width: 100vw;
+  justify-content: space-evenly;
+}
+.item {
+  height: 200px;
+  background-color: red;
+  width: 20vw;
+  margin: 10px;
+  color: white;
+}
 /* Your CSS Code here. */
